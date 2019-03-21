@@ -20,9 +20,8 @@
   "dependencies": {
     "ember-cli-babel": "^6.8.2",
     "ember-cli-htmlbars": "^2.0.3",
-    "ember-one-way-controls": "^2.0.1",
-    "ember-truth-helpers": "^1.3.0",
-    "pdfjs-dist": "1.7.316"
+    "ember-truth-helpers": "^2.1.0",
+    "pdfjs-dist": "2.1.266"
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.6.0",
